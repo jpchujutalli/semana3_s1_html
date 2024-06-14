@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <h1>Formularios</h1>
+
+    <p>
+        realizaremos un formulario con los datos para poder ingresar al index
+    </p>
+
+    <form action="./index.html">
+
+        <div>
+            <label for="">Ingrese nombres:</label>
+            <input type="text" autocomplete="off" required maxlength="20" >
+        </div>
+
+        <div>
+            <label for="">Ingrese apellidos:</label>
+            <input type="text" autocomplete="off" required maxlength="20" >
+        </div>
+
+        <div>
+            <label for="">Ingrese correo electronico:</label>
+            <input type="email" autocomplete="off" required >
+        </div>
+
+        <div>
+            <label for="">Ingrese telefono:</label>
+            <input type="tel" required autocomplete="off">
+        </div>
+
+        <div>
+            <label for="">Ingrese fecha de nacimiento:</label>
+            <input type="date" required>
+        </div>
+
+        <div>
+            <label for="">Ingrese edad:</label>
+            <input type="number" required max="80" min="18">
+        </div>
+
+        <button>
+            <a href="./error.html" style="color: black;" style="text-decoration: none;" >cancelar formulario</a>
+        </button>
+
+        <button type="submit">Enviar formulario</button>
+
+        
+
+    </form>
+
+</body>
+</html>

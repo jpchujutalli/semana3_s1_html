@@ -14,3 +14,9 @@
 
 # EMMET
 1. es muy util usar el emmet ya que nos permite simplificar el proceso de codeo, nos permite ser mas agiles y reducir al escribir codigo.
+
+
+# CLASE DE HOY
+1. Lo que se verifico fue el poder poner las imagenes dentro de nuestra pagina web ya sean externas o del mismo proyecto.
+
+2. Tambien se verifico lo que son los formularios, de los cuales tienen distintas funciones y atributos donde podemos explorar diversas opciones.
